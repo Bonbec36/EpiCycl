@@ -7,10 +7,6 @@ Ce projet utilise des transformées de Fourier pour dessiner des formes complexe
 - [Introduction](#introduction)
 - [Pré-requis](#pré-requis)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Exemples](#exemples)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
 
 ## Introduction
 
@@ -24,6 +20,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 - Bibliothèques Python suivantes :
   - `numpy`
   - `matplotlib`
+  - `cv2`
+  - `scipy`
 
 ## Installation
 
@@ -32,4 +30,5 @@ Clonez ce dépôt sur votre machine locale :
 ```bash
 git clone https://github.com/votre-utilisateur/fourier-draw.git
 cd fourier-draw
-
+pip install -r requirements.txt
+```
