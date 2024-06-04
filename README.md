@@ -28,7 +28,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/fourier-draw.git
-cd fourier-draw
+git clone https://github.com/Bonbec36/EpiCycl.git
+cd EpiCycl
 pip install -r requirements.txt
 ```
